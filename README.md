@@ -1,4 +1,4 @@
-# Make your first Kaggle submission!
+# This is my Kaggle submission for EDA with Python!
 
 The Jupyter notebook goes through the Kaggle Titanic dataset via an exploratory data analysis (EDA) with Python and finishes with making a submission.
 
